@@ -1,0 +1,9 @@
+.profile{
+	
+}
+.profile li{
+	list-style: none;
+    background: #ededed;
+    padding: 15px;
+    border: 1px solid #928c8c;
+}
